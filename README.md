@@ -23,8 +23,8 @@ This project uses a Long Short-Term Memory (LSTM) neural network to perform sent
 ## 📁 Project Structure
 
 lstm-financial-sentiment/
-├── data/ # Raw dataset files (FinancialPhraseBank)
-├── notebooks/ # Jupyter notebooks for EDA & analysis
+├── data/ # Raw dataset files (FinancialPhraseBank) \
+├── notebooks/ # Jupyter notebooks for EDA & analysis \
 ├── src/ # Training scripts and utility modules
 ├── models/ # Saved model weights
 ├── outputs/ # Metrics, plots, or evaluation logs
